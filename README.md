@@ -7,4 +7,4 @@ Tags are generated automatically if you right click the note block and select Ad
 Other functions including get instant answers to any questions, and markdown support. See how it operates:
 https://www.reddit.com/r/OpenAI/comments/13voxsb/simplest_yet_cleverest_mac_menubar_note_designed/
 
-This is the [download link](FlowNote.dmg) for version not notarized by Apple. The notarized version will be uploaded this week. It will be open sourced after several updates.
+This is the [download link](FlowNote.dmg). **This is the new version notarized by Apple**. It will be open sourced after several updates.
