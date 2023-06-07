@@ -9,6 +9,7 @@ Other functions including get instant answers to any questions, and markdown sup
 This is the [download link](FlowNote_v1.1.dmg). **This is the newest version notarized by Apple**. It will be open sourced after several updates.
 
 **Update v1.1**
+
 Now you can set a reminder for one note by right-click and select "Remind me...". For example, you can have it remind you what to do after 2 days, or you can use it as a pomodoro. There are many other possibilities.
 
 *Please feel free to contact me and request new features. New functions will be released frequently. Star if you like it.*
