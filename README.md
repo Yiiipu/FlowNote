@@ -17,5 +17,8 @@ Now you can set a reminder for one note by right-click and select "Remind me..."
 1. UI is improved.
 2. Dark mode is supported.
 3. Now you can mark/unmark a note by right-click and select "Mark"/"Unmark". A red dot will be added to that note to make it more visible. I use it to mark the note that I need to revisit in near future.
+![](https://github.com/Yiiipu/FlowNote/raw/main/Image/Screenshot%2023-06-14%at%3.06.05%PM.png)
+![](https://github.com/Yiiipu/FlowNote/raw/main/Image/Screenshot%2023-06-14%at%3.06.28%PM.png)
+
 
 *Please feel free to contact me and request new features. New functions will be released frequently. Star if you like it.*
