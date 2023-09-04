@@ -1,14 +1,16 @@
 # FlowNote
-The simplest yet clever Mac menubar note.
+The **simplest yet clever** Mac menubar note.
+
 Simply type in your notes. No navigation. No button click. No category search. New text field generates automatically for your next input. All notes are listed in time flow.
-<img src="https://github.com/Yiiipu/FlowNote/raw/main/Image/Screenshot%202023-05-25%20at%206.38.28%20PM%20(1).png" width="800">
 
-Tags are generated automatically if you right click the note block and select Add Tags (OpenAI API needed for this function). You can use the tag system and keywords to search your notes. 
-<img src="https://github.com/Yiiipu/FlowNote/raw/main/Image/Screenshot%202023-05-25%20at%206.42.01%20PM%20(1).png" width="800">
+Although the note-taking is simple and fluent, **searching for previous notes is never a pain**. FlowNote supports two ways of searching for previous notes:
 
-Other functions including get instant answers to any questions, and markdown support. See a video of how it [operates](https://www.reddit.com/r/OpenAI/comments/13wvt81/simplest_yet_cleverest_mac_menubar_note_designed/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1).
+1. Tags can be generated automatically (with OpanAI API) for each note. You can use tag and keywords to filter the notes.
+2. Simply type in your question about your note base. AI assistant will perform semantic search of the note base and give you the answer. 
 
-This is the [download link](FlowNote_v1.2.dmg). **This is the newest version notarized by Apple**. It will be open sourced after several updates.
+Other functions including get instant answers to any questions (powered by ChatGPT), mark/unmark important notes, set reminder for time-sensitive notes, and markdown support. See a video of how it [operates](https://www.reddit.com/r/OpenAI/comments/13wvt81/simplest_yet_cleverest_mac_menubar_note_designed/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1). This video is for FlowNote v1.0.
+
+This is the [download link](FlowNote_v1.3.dmg). **This is the newest version notarized by Apple**. It will be open sourced after several updates.
 
 **Update v1.1**
 
@@ -23,6 +25,11 @@ Now you can set a reminder for one note by right-click and select "Remind me..."
 <img src="https://github.com/Yiiipu/FlowNote/raw/main/Image/Screenshot%202023-06-14%20at%203.06.05%20PM.png" width="500">
 <img src="https://github.com/Yiiipu/FlowNote/raw/main/Image/Screenshot%202023-06-14%20at%203.06.28%20PM.png" width="500">
 
+**Update v1.3 (20230904)**
 
+1. App icon will no longer show in cmd-tab view.
+2. Semantic search is supported. Simply type in your question, right click and select "Ask FlowNote". AI assistant will search your note base and give you the answer in this note block.
+
+<img src="https://github.com/Yiiipu/FlowNote/raw/main/Image/scst0904.png" width="500">
 
 *Please feel free to contact me and request new features. New functions will be released frequently. Star if you like it.*
