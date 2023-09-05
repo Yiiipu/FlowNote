@@ -28,7 +28,7 @@ Now you can set a reminder for one note by right-click and select "Remind me..."
 **Update v1.3 (20230904)**
 
 1. App icon will no longer show in cmd-tab view.
-2. Semantic search is supported. Simply type in your question, right click and select "Ask FlowNote". AI assistant will search your note base and give you the answer in this note block.
+2. Semantic search is supported. Simply type in your question, right click and select "Ask FlowNote". AI assistant will search your note base and give you the answer in this note block. Go to settings to generate embeddings for previous notes if you have any. New notes in v1.3 will automatically be updated with embeddings.
 
 <img src="https://github.com/Yiiipu/FlowNote/raw/main/Image/scst0904.png" width="500">
 
